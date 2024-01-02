@@ -1,0 +1,22 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+body{
+    background-color: white;
+    font-size: larger;
+}
+h1{
+    color:whitesmoke;
+    margin:center;
+}
+h2{
+    color :darkgreen
+}
+h3{
+    color:lightsalmon
+}
+h6{
+    size: 100px;
+}
